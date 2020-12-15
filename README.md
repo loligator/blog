@@ -1,20 +1,12 @@
-# Hydejack Starter Kit
+# Connor McDermott's Blog
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+A blog for me to get some of my ideas and experiences out there. This is a Jekyll-based blog, using the [Hydejack](https://hydejack.com/) theme.
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+## Where to see it
+[loligator.github.io/blog](https://loligator.github.io/blog)
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+## What to expect
+I'll be writing on topics that I find interesting, such as Game Dev, Gaming, Linux, or any combination of the two. I'll be avoiding politics or any other hot topics. However, I am a relatively privacy conscious person, so I might sneak some of that in if I feel the need.
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
-
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+## Where else can you see me
+My portfolio is also available at [connormcdermott.me](https://connormcdermott.me). Designed on Wix by the lovely Nikita Kumar, who can also be found at [ux.nikitakumar.me](https://ux.nikitakumar.me)! 
