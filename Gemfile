@@ -41,8 +41,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache", git: "https://github.com/hydecorp/jekyll-include-cache"
 
   # Github Pages plugins:
-  # gem "github-pages", group: :jekyll_plugins
-
+  gem "github-pages", group: :jekyll_plugins
 
   # Non-Github Pages plugins:
   # gem "jekyll-last-modified-at"
